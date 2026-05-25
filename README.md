@@ -18,7 +18,7 @@
 ### 👩‍💻About Me
 
 🎓 B.Tech Artificial Intelligence and Data Science Student  
-🧠 Passionate about Artificial Intelligence, Machine Learning and Data Analytics  
+🧠 Passionate about AI/ML and Data Analytics  
 💻 Interested in Web Development and Intelligent Applications  
 📊 Exploring Data Analysis, Visualization and Predictive Systems  
 🚀 Building technology solutions solving real-world problems  
@@ -37,7 +37,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/vimala-pradeepa-s-p-55aa9a287" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
@@ -58,7 +58,7 @@
 ---
 # 🤖 AI Tools & Platforms
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=git" height="60" />
 <img src="https://skillicons.dev/icons?i=github" height="60" />
