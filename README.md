@@ -63,7 +63,6 @@
 
 <img src="https://skillicons.dev/icons?i=git" height="60"/>
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="60"/>
 <img src="https://skillicons.dev/icons?i=postman" height="60"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 
