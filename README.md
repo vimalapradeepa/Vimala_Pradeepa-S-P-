@@ -1,58 +1,78 @@
 <h1 align="center">Hi 👋, I'm Vimala Pradeepa</h1>
-<h3 align="center">Engineering Student | Aspiring Developer | Tech Enthusiast</h3>
+
+<h3 align="center">
+Engineering Student | Aspiring Developer | Tech Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student+🎓;Learning+Web+Development+💻;Future+Software+Developer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student+🎓;Learning+Web+Development+💻;Future+Software+Developer+🚀" />
 </p>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
-<img align="right" alt="Coding Girl" width="350" src="YOUR_IMAGE_LINK_HERE">
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="450">
+</p>
 
-- 🎓 Engineering Student  
-- 💻 Interested in Web Development & Programming  
-- 🌱 Currently learning new technologies  
-- 🚀 Passionate about building creative projects  
-- 📚 Exploring GitHub and Open Source  
-- ⚡ Fun fact: I love creating aesthetic tech designs ✨  
+```yaml
+name: Vimala Pradeepa
+role: Engineering Student
+location: India
+
+about_me:
+  - Passionate about coding 💻
+  - Learning Web Development 🌐
+  - Exploring Open Source 🚀
+  - Love aesthetic tech setups ✨
+
+currently_learning:
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - Git & GitHub
+
+goal:
+  Become a skilled Software Developer 👩‍💻
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/vimala-pradeepa-s-p-55aa9a287" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="https://github.com/vimalapradeepa" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vimalapradeepa&show_icons=true&theme=tokyonight" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalapradeepa&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalapradeepa&theme=tokyonight" height="180em"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalapradeepa&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vimalapradeepa&theme=algolia&margin-w=15&margin-h=15"/>
@@ -60,20 +80,24 @@
 
 ---
 
-## ✨ Developer Vibes
+# ✨ Coding Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 </p>
 
 ---
 
-## 💭 Quote
+# 💭 Quote
+
+<p align="center">
 
 > “Keep learning, keep building, and never stop growing.” 🌱
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/vimalapradeepa">Vimala Pradeepa</a>
+⭐ From <a href="https://github.com/vimalapradeepa">Vimala Pradeepa</a>
 </p>
