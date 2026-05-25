@@ -5,15 +5,36 @@ Engineering Student|Data Analytics|Web Developer
 </h3>
 ##👩‍💻  About Me
 
-<p align="center">
-  <img align="right"width="370"height="270" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student+🎓;Learning+Web+Development+💻;Future+Software+Developer+🚀" />
-</p>
-- 🎓 B.Tech Artificial Intelligence and Data Science Student
-- 💻 Interested in Web Development & Programming  
-- 🌱 Currently learning new technologies  
-- 🚀 Passionate about building creative projects  
-- 📚 Exploring GitHub and Open Source  
-- ⚡ Fun fact: I love creating aesthetic tech designs ✨  
+<table>
+<tr>
+<td width="60%">
+
+### 🌸 Hello, I'm Vimala Pradeepa
+
+🎓 B.Tech Artificial Intelligence and Data Science Student  
+
+🧠 Passionate about Artificial Intelligence, Machine Learning and Data Analytics  
+
+💻 Interested in Web Development and Intelligent Applications  
+
+📊 Exploring Data Analysis, Visualization and Predictive Systems  
+
+🚀 Building technology solutions solving real-world problems  
+
+🌱 Currently learning Advanced React, Machine Learning and System Design  
+
+⚡ Love creating scalable and user-focused applications  
+
+</td>
+
+<td width="40%">
+
+<img align="right" alt="Coding Girl" width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+</td>
+</tr>
+</table>
+  
 
 ---
 
