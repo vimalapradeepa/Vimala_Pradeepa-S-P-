@@ -12,13 +12,12 @@ Engineering Student|Data Analytics|Web Developer
 📊 Exploring Data Analysis, Visualization and Predictive Systems  
 🚀 Building technology solutions solving real-world problems  
 🌱 Currently learning Advanced React, Machine Learning and System Design  
-⚡ Love creating scalable and user-focused applications  
 
 </td>
 
 <td width="40%">
 
-<img align="right" alt="Coding Girl" width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding Girl" width="370%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 </td>
 </tr>
