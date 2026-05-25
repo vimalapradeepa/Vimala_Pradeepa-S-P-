@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
- Engineering Student & Aspiring Software Developer  | Web Developer
+ Engineering Student | Aspiring Software Developer  | Web Developer
 </h3>
 
 ---
@@ -66,6 +66,7 @@
 <img src="https://skillicons.dev/icons?i=postman" height="60" />
 
 </p>
+
 ---
 
 # 🚀 Featured Projects
@@ -98,6 +99,8 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 
 ⚙️ Tech Used:Python,Matplotlib,Pandas,Visualization Tools
 
+ ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,6 +110,7 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 </p>
 
 ---
+
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
@@ -114,6 +118,7 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 <img alt="Vimala Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vimalapradeepa&theme=tokyo-night&hide_border=true"/>
 </a>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
