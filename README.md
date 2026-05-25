@@ -11,7 +11,10 @@
 </h3>
 
 ---
-
+<table>
+<tr>
+<td width="60%">
+ 
 ### 👩‍💻About Me
 
 🎓 B.Tech Artificial Intelligence and Data Science Student  
@@ -22,9 +25,9 @@
 🌱 Currently learning Advanced React, Machine Learning and System Design  
 
 </td>
-<td width="50%">
+<td width="40%">
 
-<p align="left">
+<p align="right">
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50%">
 </p>
 
