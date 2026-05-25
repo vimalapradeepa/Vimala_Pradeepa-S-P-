@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-AI/ML Developer • Data Analytics • Web Developer
+ Engineering Student & Aspiring Software Developer  | Web Developer
 </h3>
 
 ---
@@ -23,13 +23,13 @@ AI/ML Developer • Data Analytics • Web Developer
 
 </td>
 
-<td width="40%">
+<td width="50%">
 
-<img align="right" alt="Coding Girl" width="10%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%">
+</p>
 
 </td>
-</tr>
-</table>
   
 
 ---
