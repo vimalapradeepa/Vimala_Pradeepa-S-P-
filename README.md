@@ -79,25 +79,21 @@
 ## 🔍 Missing Person Alert Portal
 
 AI-powered missing person detection system using facial recognition.
-
 ⚙️ Tech Used:Python,Machine Learning,TensorFlow,SQlite,Webcam Integration
 
 ## 📹 Street Sentinel Surveillance System
 
 Smart surveillance and monitoring system for security applications.
-
 ⚙️ Tech Used:IOT,Machine Learning
 
 ## 🌐 WebScour Distributed Crawler & Search Engine
 
 Distributed web crawler and search engine system for efficient web indexing.
-
 ⚙️ Tech Used: Python,RabbitMQ,Distributed Systems
 
 ## 📊 Data Visualization Dashboard
 
 Interactive dashboard for analyzing datasets and generating visual insights.
-
 ⚙️ Tech Used:Python,Matplotlib,Pandas,Visualization Tools
 
  ---
