@@ -24,7 +24,7 @@
 </td>
 <td width="50%">
 
-<p align="center">
+<p align="left">
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50%">
 </p>
 
