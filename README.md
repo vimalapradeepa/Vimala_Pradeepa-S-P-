@@ -2,10 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:6A11CB&height=220&section=header&text=Vimala%20Pradeepa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20|%20Data%20Analytics%20|%20Web%20Developer&descAlignY=60&descSize=24"/>
 </p>
 
-<h1 align="center">
-💻 Data Analytics | Web Development | AI/ML
-</h1>
-
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </p>
