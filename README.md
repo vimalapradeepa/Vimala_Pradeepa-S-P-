@@ -59,17 +59,17 @@
 
 # 🤖 AI Tools & Platforms
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=git" height="60"/>
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=figma" height="60"/>
+<img src="https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="60"/>
 <img src="https://skillicons.dev/icons?i=postman" height="60"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 
 </p>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/OPENAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
