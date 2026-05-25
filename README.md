@@ -62,9 +62,10 @@
 
 <img src="https://skillicons.dev/icons?i=git" height="60" />
 <img src="https://skillicons.dev/icons?i=github" height="60" />
-<img src="https://skillicons.dev/icons?i=figma" height="60" />
+<img src="https://skillicons.dev/icons?i=Claude" height="60" />
 <img src="https://skillicons.dev/icons?i=vscode" height="60" />
-<img src="https://skillicons.dev/icons?i=postman" height="60" />
+<img src="https://skillicons.dev/icons?i=Gemin" height="60" />
+<img src="https://skillicons.dev/icons?i=ChatGPT" height="60" />
 
 </p>
 
