@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
- Engineering Student | Aspiring Software Developer  | Web Developer
+ Engineering Student | Data Analytics | Web Developer
 </h3>
 
 ---
