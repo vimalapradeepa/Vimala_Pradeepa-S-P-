@@ -2,19 +2,21 @@
 <h3 align="center">Engineering Student | Aspiring Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student+%F0%9F%8E%93;Learning+Web+Development+%F0%9F%92%BB;Future+Software+Developer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Engineering+Student+🎓;Learning+Web+Development+💻;Future+Software+Developer+🚀" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎓 Engineering Student
-- 💻 Interested in Web Development & Programming
-- 🌱 Currently learning new technologies
-- 🚀 Passionate about building creative projects
-- 📫 Reach me at: **vimala@example.com**
-- ⚡ Fun fact: I love exploring tech and creating cool designs
+<img align="right" alt="Coding Girl" width="350" src="YOUR_IMAGE_LINK_HERE">
+
+- 🎓 Engineering Student  
+- 💻 Interested in Web Development & Programming  
+- 🌱 Currently learning new technologies  
+- 🚀 Passionate about building creative projects  
+- 📚 Exploring GitHub and Open Source  
+- ⚡ Fun fact: I love creating aesthetic tech designs ✨  
 
 ---
 
@@ -58,7 +60,15 @@
 
 ---
 
-## ✨ Quote
+## ✨ Developer Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+---
+
+## 💭 Quote
 
 > “Keep learning, keep building, and never stop growing.” 🌱
 
