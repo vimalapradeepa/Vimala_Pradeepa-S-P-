@@ -25,7 +25,7 @@
 🌱 Currently learning Advanced React, Machine Learning and System Design  
 
 </td>
-<td width="40%">
+<td width="50%">
 
 <p align="right">
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50%">
