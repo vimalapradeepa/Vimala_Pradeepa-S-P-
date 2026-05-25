@@ -27,7 +27,7 @@
 </td>
 <td width="48%" align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" height="250"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="250"/>
 
 </td>
 </tr>
@@ -37,11 +37,13 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/vimala-pradeepa-s-p-55aa9a287" target="blank">
-<img align="c<td width="48%" align="center">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
 <a href="https://github.com/vimalapradeepa" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 </p>
 
