@@ -4,24 +4,14 @@
 Engineering Student|Data Analytics|Web Developer
 </h3>
 
-## 👩‍💻About Me
-
-<table>
-<tr>
-<td width="60%">
+### 👩‍💻About Me
 
 🎓 B.Tech Artificial Intelligence and Data Science Student  
-
 🧠 Passionate about Artificial Intelligence, Machine Learning and Data Analytics  
-
 💻 Interested in Web Development and Intelligent Applications  
-
 📊 Exploring Data Analysis, Visualization and Predictive Systems  
-
 🚀 Building technology solutions solving real-world problems  
-
 🌱 Currently learning Advanced React, Machine Learning and System Design  
-
 ⚡ Love creating scalable and user-focused applications  
 
 </td>
