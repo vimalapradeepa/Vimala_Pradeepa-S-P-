@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00E7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Enthusiast+🤖;Building+Smart+Applications+🚀;Web+Developer+%7C+Data+Analytics+💻"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00E7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+Developer+🤖;Building+Smart+Applications+🚀;Web+Developer+%7C+Data+Analytics+💻"/>
 </p>
 
 <h3 align="center">
@@ -27,7 +27,7 @@
 </td>
 <td width="48%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="250"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420" height="250"/>
 
 </td>
 </tr>
