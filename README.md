@@ -25,11 +25,9 @@
 🌱 Currently learning Advanced React, Machine Learning and System Design  
 
 </td>
-<td width="50%">
+<td width="48%" align="center">
 
-<p align="right">
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50%">
-</p>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" height="250"/>
 
 </td>
 </tr>
@@ -41,9 +39,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vimala-pradeepa-s-p-55aa9a287" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
+<img align="c<td width="48%" align="center">
 <a href="https://github.com/vimalapradeepa" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
