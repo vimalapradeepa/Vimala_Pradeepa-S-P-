@@ -3,13 +3,12 @@
 <h3 align="center">
 Engineering Student|Data Analytics|Web Developer
 </h3>
+
 ##👩‍💻  About Me
 
 <table>
 <tr>
 <td width="60%">
-
-### 🌸 Hello, I'm Vimala Pradeepa
 
 🎓 B.Tech Artificial Intelligence and Data Science Student  
 
