@@ -4,7 +4,7 @@
 Engineering Student|Data Analytics|Web Developer
 </h3>
 
-##👩‍💻  About Me
+## 👩‍💻About Me
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Distributed web crawler and search engine system for efficient web indexing.
 
 ⚙️ Tech Used: Python,RabbitMQ,Distributed Systems
 
-##📊 Data Visualization Dashboard
+## 📊 Data Visualization Dashboard
 
 Interactive dashboard for analyzing datasets and generating visual insights.
 
@@ -127,13 +127,6 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 
 ---
 
-## ✨ Developer Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
-
----
 
 ## 💭 Quote
 
