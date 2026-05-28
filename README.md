@@ -139,8 +139,7 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 ⚙️ Tech Used:Python,Matplotlib,Pandas,Visualization Tools
 
  ---
-
-```md id="2i8kzb"
+ 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -150,8 +149,6 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 <img src="https://streak-stats.demolab.com?user=vimalapradeepa&theme=tokyonight" height="180em"/>
 
 </p>
-```
-
 
 ---
 
