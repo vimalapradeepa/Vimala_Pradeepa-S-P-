@@ -140,13 +140,18 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 
  ---
 
+```md id="2i8kzb"
 ## 📊 GitHub Stats
 
-<p align="centre">
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=vimalapradeepa&show_icons=true&theme=tokyonight" height="180em"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalapradeepa&theme=tokyonight" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=vimalapradeepa&theme=tokyonight" height="180em"/>
+
 </p>
+```
+
 
 ---
 
