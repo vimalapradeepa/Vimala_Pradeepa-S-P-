@@ -79,7 +79,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/GITHUB_COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/CURSOR_AI-9900CC?style=for-the-badge"/>
@@ -142,7 +142,7 @@ Interactive dashboard for analyzing datasets and generating visual insights.
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="centre">
 <img src="https://github-readme-stats.vercel.app/api?username=vimalapradeepa&show_icons=true&theme=tokyonight" height="180em"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalapradeepa&theme=tokyonight" height="180em"/>
